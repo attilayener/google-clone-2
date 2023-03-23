@@ -1,1 +1,7 @@
-# google-clone-2
+#Css ödevi. Google Clone yeni hali.
+
+***
+
+
+
+![Resim](assets/alinti.PNG)
